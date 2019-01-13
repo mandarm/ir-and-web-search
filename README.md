@@ -1,7 +1,10 @@
 #  Due by Tuesday, 15 January, 2019 #
 Title of the module
+
 Small abstract about the module (overview, objectives) [50-60 words]
+
 Lecture-wise breakup (12 lectures, 1 hour each): see syllabus.txt
+
 Short Bio of the faculty members teaching the module [~30 words]
 
 
