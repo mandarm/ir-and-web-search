@@ -1,0 +1,43 @@
+Lecture 1: Introduction, overview of applications.
+           Basic idea: keyword search.
+           Indexing: tokenisation, stopword removal, stemming, phrase
+           identification.
+           Boolean retrieval, ranked retrieval, vector space model:
+           term weighting, very brief overview of axiomatic approach
+           to term weighting.
+
+Lecture 2: Language modeling for IR: query likelihood, KL divergence, smoothing.
+
+Lecture 3: Crawling, focused crawling, Nutch
+           Move this closer to 10?
+
+Lecture 4: Index structures, index creation.
+           Roughly: MRS, chapters 2, 4 ?
+
+Lecture 5: Indexing and retrieval using Lucene.
+
+Lecture 6: Evaluation: recall, precision, average precision, NDCG, other
+           commonly used metrics; test collections, evaluation forums, sound 
+           experimental methods.
+
+Lecture 7: Query expansion: relevance feedback, Rocchio's method,
+           variations, pseudo relevance feedback; relevance based 
+           language models and variations.
+
+Lecture 8: Latent Semantic Analysis, word embeddings: overview and 
+           applications in IR.
+
+Lecture 9: Web document preprocessing: parsing, segmentation,
+            deduplication, shingling.
+
+Lecture 10: Link analysis: hubs and authorities, PageRank.
+
+Lecture 11: Learning to rank
+
+Lecture 12: Text classification ?
+
+---------------------------------------------------------------------------
+
+MM: Comfortable with 1, 2, 6, 7.
+    পড়ে পড়াতে পারব আশা করছি : 3 (except Nutch), 4 (textbook level only).
+    ভয়ে ভয়ে চেষ্টা করে দেখতে পারি : 10, 12
